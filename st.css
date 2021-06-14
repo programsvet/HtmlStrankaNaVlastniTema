@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    color:red !important;
+}
+
+.blackstyle{
+    color: black ;
+   background-color: blue;
+}
+.bluestyle{
+    color: lightblue ;
+   background-color: red;
+}
+h1 {
+    text-align:center;
+    color: green;
+}
+dd, dt {
+    text-align:center;
+    color:lightgreen;
+}
